@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using RetailOrdering.API.DTOs.Order;
 using RetailOrdering.API.Helpers;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 using RetailOrdering.API.Services;
 using System.Security.Claims;
@@ -13,8 +14,8 @@ namespace RetailOrdering.API.Controllers
     [ApiController]
     public class OrderController : ControllerBase
     {
-        private readonly OrderService _orders;
-        public OrderController(OrderService orders) => _orders = orders;
+        private readonly IOrderService _orders;
+        public OrderController(IOrderService orders) => _orders = orders;
         private int UserId => int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
 
         [HttpPost("place")] public async Task<IActionResult> Place(OrderRequestDto dto) => Ok(ApiResponse<OrderConfirmationDto>.Ok(await _orders.PlaceOrderAsync(UserId, dto)));

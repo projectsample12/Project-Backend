@@ -9,12 +9,13 @@ namespace RetailOrdering.API.Services
     public class OrderService : IOrderService
     {
         private readonly AppDbContext _db;
-        private readonly CartService _cart;
-        private readonly InventoryService _inventory;
-        private readonly EmailService _email;
-        private readonly LoyaltyService _loyalty;
+        private readonly ICartService _cart;
+        private readonly IInventoryService _inventory;
+        private readonly IEmailService _email;
+        private readonly ILoyaltyService _loyalty;
 
-        public OrderService(AppDbContext db, CartService cart, InventoryService inventory, EmailService email, LoyaltyService loyalty)
+        public OrderService(AppDbContext db, ICartService cart, IInventoryService inventory,
+                    IEmailService email, ILoyaltyService loyalty)
         { _db = db; _cart = cart; _inventory = inventory; _email = email; _loyalty = loyalty; }
 
         public async Task<OrderConfirmationDto> PlaceOrderAsync(int userId, OrderRequestDto dto)

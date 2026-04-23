@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RetailOrdering.API.Data;
 using RetailOrdering.API.Helpers;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 using RetailOrdering.API.Services;
 using System.Security.Claims;
@@ -14,11 +15,11 @@ namespace RetailOrdering.API.Controllers
     [ApiController]
     public class PromotionController : ControllerBase
     {
-        private readonly PromotionService _promos;
-        private readonly LoyaltyService _loyalty;
+        private readonly IPromotionService _promos;
+        private readonly ILoyaltyService _loyalty;
         private readonly AppDbContext _db;
 
-        public PromotionController(PromotionService promos, LoyaltyService loyalty, AppDbContext db)
+        public PromotionController(IPromotionService promos, ILoyaltyService loyalty, AppDbContext db)
         {
             _promos = promos;
             _loyalty = loyalty;

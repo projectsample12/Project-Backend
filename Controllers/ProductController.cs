@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using RetailOrdering.API.DTOs.Product;
 using RetailOrdering.API.Helpers;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Services;
 
 namespace RetailOrdering.API.Controllers
@@ -11,9 +12,9 @@ namespace RetailOrdering.API.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        private readonly ProductService _products;
-        private readonly SearchService _search;
-        public ProductController(ProductService products, SearchService search)
+        private readonly IProductService _products;
+        private readonly ISearchService _search;
+        public ProductController(IProductService products, ISearchService search)
         { _products = products; _search = search; }
 
         [HttpGet]

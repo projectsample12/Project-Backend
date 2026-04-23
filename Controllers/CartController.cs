@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using RetailOrdering.API.DTOs.Order;
 using RetailOrdering.API.Helpers;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Services;
 using System.Security.Claims;
 
@@ -11,8 +12,8 @@ namespace RetailOrdering.API.Controllers
     [ApiController]
     public class CartController : ControllerBase
     {
-        private readonly CartService _cart;
-        public CartController(CartService cart) => _cart = cart;
+        private readonly ICartService _cart;
+        public CartController(ICartService cart) => _cart = cart;
         private int UserId => int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
 
         [HttpGet] public async Task<IActionResult> GetCart() => Ok(ApiResponse<CartDto>.Ok(await _cart.GetCartAsync(UserId)));

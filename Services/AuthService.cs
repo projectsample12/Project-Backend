@@ -11,10 +11,10 @@ namespace RetailOrdering.API.Services;
 public class AuthService : IAuthService
 {
     private readonly AppDbContext _db;
-    private readonly JwtService _jwt;
+    private readonly IJwtService _jwt;
     private readonly IConfiguration _config;
 
-    public AuthService(AppDbContext db, JwtService jwt, IConfiguration config)
+    public AuthService(AppDbContext db, IJwtService jwt, IConfiguration config)
     { _db = db; _jwt = jwt; _config = config; }
 
     public async Task<TokenDto> RegisterAsync(RegisterDto dto)

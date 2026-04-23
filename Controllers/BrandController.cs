@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using RetailOrdering.API.DTOs;
 using RetailOrdering.API.DTOs.Product;
 using RetailOrdering.API.Helpers;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 using RetailOrdering.API.Services;
 
@@ -12,8 +13,8 @@ namespace RetailOrdering.API.Controllers
     [ApiController]
     public class BrandController : ControllerBase
     {
-        private readonly InventoryService _inv;
-        public BrandController(InventoryService inv) => _inv = inv;
+        private readonly IInventoryService _inv;
+        public BrandController(IInventoryService inv) => _inv = inv;
 
         [HttpGet("inventory")]
         [Authorize(Roles = "Admin")]

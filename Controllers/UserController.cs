@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using RetailOrdering.API.DTOs.User;
 using RetailOrdering.API.Helpers;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Services;
 using System.Security.Claims;
 
@@ -11,8 +12,8 @@ namespace RetailOrdering.API.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        private readonly UserService _users;
-        public UserController(UserService users) => _users = users;
+        private readonly IUserService _users;
+        public UserController(IUserService users) => _users = users;
         private int UserId => int.TryParse(User.FindFirstValue(ClaimTypes.NameIdentifier), out var id)
      ? id
      : throw new UnauthorizedAccessException("Invalid or missing token.");
