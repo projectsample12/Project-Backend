@@ -1,10 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RetailOrdering.API.Data;
 using RetailOrdering.API.DTOs.Order;
+using RetailOrdering.API.Interfaces;
 
 namespace RetailOrdering.API.Services
 {
-    public class HistoryService
+    public class HistoryService : IHistoryService
     {
         private readonly AppDbContext _db;
         public HistoryService(AppDbContext db) => _db = db;

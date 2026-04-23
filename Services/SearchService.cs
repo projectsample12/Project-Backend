@@ -1,10 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RetailOrdering.API.Data;
 using RetailOrdering.API.DTOs.Product;
+using RetailOrdering.API.Interfaces;
 
 namespace RetailOrdering.API.Services
 {
-    public class SearchService
+    public class SearchService : ISearchService
     {
         private readonly AppDbContext _db;
         public SearchService(AppDbContext db) => _db = db;

@@ -1,11 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RetailOrdering.API.Data;
 using RetailOrdering.API.DTOs.Product;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 
 namespace RetailOrdering.API.Services
 {
-    public class InventoryService
+    public class InventoryService : IInventoryService
     {
         private readonly AppDbContext _db;
         public InventoryService(AppDbContext db) => _db = db;

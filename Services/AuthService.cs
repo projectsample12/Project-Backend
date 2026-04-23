@@ -3,11 +3,12 @@ using Microsoft.EntityFrameworkCore;
 using RetailOrdering.API.Data;
 using RetailOrdering.API.DTOs;
 using RetailOrdering.API.DTOs.Auth;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 
 namespace RetailOrdering.API.Services;
 
-public class AuthService
+public class AuthService : IAuthService
 {
     private readonly AppDbContext _db;
     private readonly JwtService _jwt;

@@ -2,11 +2,12 @@
 using RetailOrdering.API.Data;
 using RetailOrdering.API.DTOs;
 using RetailOrdering.API.DTOs.User;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 
 namespace RetailOrdering.API.Services;
 
-public class UserService
+public class UserService : IUserService
 {
     private readonly AppDbContext _db;
     public UserService(AppDbContext db) => _db = db;

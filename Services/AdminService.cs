@@ -2,11 +2,12 @@
 using RetailOrdering.API.Data;
 using RetailOrdering.API.DTOs;
 using RetailOrdering.API.DTOs.Auth;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 
 namespace RetailOrdering.API.Services;
 
-public class AdminService
+public class AdminService : IAdminService
 {
     private readonly AppDbContext _db;
     public AdminService(AppDbContext db) => _db = db;

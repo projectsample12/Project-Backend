@@ -2,11 +2,12 @@
 using RetailOrdering.API.Data;
 using RetailOrdering.API.DTOs;
 using RetailOrdering.API.DTOs.Product;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 
 namespace RetailOrdering.API.Services;
 
-public class ProductService
+public class ProductService : IProductService
 {
     private readonly AppDbContext _db;
     public ProductService(AppDbContext db) => _db = db;

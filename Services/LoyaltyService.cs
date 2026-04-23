@@ -1,10 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RetailOrdering.API.Data;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 
 namespace RetailOrdering.API.Services
 {
-    public class LoyaltyService
+    public class LoyaltyService : ILoyaltyService
     {
         private readonly AppDbContext _db;
         public LoyaltyService(AppDbContext db) => _db = db;

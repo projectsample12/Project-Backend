@@ -1,11 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RetailOrdering.API.Data;
 using RetailOrdering.API.DTOs.Order;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 
 namespace RetailOrdering.API.Services
 {
-    public class OrderService
+    public class OrderService : IOrderService
     {
         private readonly AppDbContext _db;
         private readonly CartService _cart;

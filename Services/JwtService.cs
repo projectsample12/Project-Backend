@@ -1,4 +1,5 @@
 ﻿using Microsoft.IdentityModel.Tokens;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
@@ -6,7 +7,7 @@ using System.Security.Cryptography;
 using System.Text;
 namespace RetailOrdering.API.Services
 {
-    public class JwtService
+    public class JwtService : IJwtService
     {
         private readonly IConfiguration _config;
         public JwtService(IConfiguration config) => _config = config;

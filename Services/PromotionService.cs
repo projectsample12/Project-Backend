@@ -1,10 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RetailOrdering.API.Data;
+using RetailOrdering.API.Interfaces;
 using RetailOrdering.API.Models;
 
 namespace RetailOrdering.API.Services
 {
-    public class PromotionService
+    public class PromotionService : IPromotionService
     {
         private readonly AppDbContext _db;
         public PromotionService(AppDbContext db) => _db = db;

@@ -1,10 +1,11 @@
-﻿using MimeKit;
-using MailKit.Net.Smtp;
+﻿using MailKit.Net.Smtp;
+using MimeKit;
+using RetailOrdering.API.Interfaces;
 using SmtpClient = MailKit.Net.Smtp.SmtpClient;
 
 namespace RetailOrdering.API.Services
 {
-    public class EmailService
+    public class EmailService : IEmailService
     {
         private readonly IConfiguration _config;
         public EmailService(IConfiguration config) => _config = config;
