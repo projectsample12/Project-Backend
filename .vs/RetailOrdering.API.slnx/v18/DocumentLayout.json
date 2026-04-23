@@ -1,0 +1,1184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260423142355_AddPromotionConstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260423142355_AddPromotionConstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\loyaltyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\loyaltyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\order\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\order\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\discountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\discountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260423134243_PromotionsUpdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260423134243_PromotionsUpdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\product\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\product\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\product\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\migrations\\20260422174004_seedadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:migrations\\20260422174004_seedadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\migrations\\20260422172531_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:migrations\\20260422172531_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\auth\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\auth\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\auth\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\auth\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\auth\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\auth\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\order\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\order\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\order\\cartitemdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\order\\cartitemdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\order\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\order\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\order\\orderconfirmationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\order\\orderconfirmationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\order\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\order\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\product\\searchfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\searchfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\user\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\user\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\user\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\user\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\loyaltypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\loyaltypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\packaging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\packaging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|d:\\finalized\\retail-website\\retailordering.api\\dtos\\product\\stockupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90528EE-B658-06F7-4619-FFBFDEFC7772}|RetailOrdering.API.csproj|solutionrelative:dtos\\product\\stockupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoyaltyService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\LoyaltyService.cs",
+              "RelativeDocumentMoniker": "Services\\LoyaltyService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\LoyaltyService.cs",
+              "RelativeToolTip": "Services\\LoyaltyService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:39:06.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIAwwDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:38:33.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRequestDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\OrderRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Order\\OrderRequestDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\OrderRequestDto.cs",
+              "RelativeToolTip": "DTOs\\Order\\OrderRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:16:57.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Promotion.cs",
+              "RelativeDocumentMoniker": "Models\\Promotion.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Promotion.cs",
+              "RelativeToolTip": "Models\\Promotion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:46:01.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiscountCode.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\DiscountCode.cs",
+              "RelativeDocumentMoniker": "Models\\DiscountCode.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\DiscountCode.cs",
+              "RelativeToolTip": "Models\\DiscountCode.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:46:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\BrandDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\BrandDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\BrandDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\BrandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:37:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:35:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:35:06.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromotionController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\PromotionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PromotionController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\PromotionController.cs",
+              "RelativeToolTip": "Controllers\\PromotionController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:35:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260423142355_AddPromotionConstraints.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260423142355_AddPromotionConstraints.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423142355_AddPromotionConstraints.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260423142355_AddPromotionConstraints.cs",
+              "RelativeToolTip": "Migrations\\20260423142355_AddPromotionConstraints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:23:56.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\CategoryDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\CategoryDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:58:37.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260423134243_PromotionsUpdated.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260423134243_PromotionsUpdated.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423134243_PromotionsUpdated.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260423134243_PromotionsUpdated.cs",
+              "RelativeToolTip": "Migrations\\20260423134243_PromotionsUpdated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:42:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PromotionService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\PromotionService.cs",
+              "RelativeDocumentMoniker": "Services\\PromotionService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\PromotionService.cs",
+              "RelativeToolTip": "Services\\PromotionService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA9wBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:38:54.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:34:44.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:09:31.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Services\\InventoryService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Services\\InventoryService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:38:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:44:14.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:33:29.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\InventoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\InventoryDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\InventoryDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\InventoryDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:59:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:37:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260422174004_SeedAdmin.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260422174004_SeedAdmin.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260422174004_SeedAdmin.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260422174004_SeedAdmin.cs",
+              "RelativeToolTip": "Migrations\\20260422174004_SeedAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:40:04.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-22T17:26:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:37:00.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:36:46.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:35:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:34:11.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:38:44.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260422172531_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260422172531_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260422172531_InitialCreate.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Migrations\\20260422172531_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260422172531_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:25:32.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminDashboardDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\AdminDashboardDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\AdminDashboardDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\AdminDashboardDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\AdminDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:52:11.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminUserDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\AdminUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\AdminUserDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\AdminUserDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\AdminUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:51:57.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:51:05.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:51:25.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\TokenDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\TokenDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Auth\\TokenDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:51:42.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\CartDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Order\\CartDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\CartDto.cs",
+              "RelativeToolTip": "DTOs\\Order\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:05:56.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CartItemDetailDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\CartItemDetailDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Order\\CartItemDetailDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\CartItemDetailDto.cs",
+              "RelativeToolTip": "DTOs\\Order\\CartItemDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:16:30.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Order\\CartItemDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\CartItemDto.cs",
+              "RelativeToolTip": "DTOs\\Order\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:04:58.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderConfirmationDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\OrderConfirmationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Order\\OrderConfirmationDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\OrderConfirmationDto.cs",
+              "RelativeToolTip": "DTOs\\Order\\OrderConfirmationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAC+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:35:22.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\OrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Order\\OrderDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\OrderDto.cs",
+              "RelativeToolTip": "DTOs\\Order\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:17:30.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Order\\OrderItemDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Order\\OrderItemDto.cs",
+              "RelativeToolTip": "DTOs\\Order\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:17:48.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\CreateProductDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:58:08.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\ProductDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\ProductDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:57:09.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SearchFilterDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\SearchFilterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\SearchFilterDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\SearchFilterDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\SearchFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:59:20.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\User\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\User\\ChangePasswordDto.cs",
+              "RelativeToolTip": "DTOs\\User\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:17:16.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\User\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UpdateProfileDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\User\\UpdateProfileDto.cs",
+              "RelativeToolTip": "DTOs\\User\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:16:47.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\User\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UserProfileDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\User\\UserProfileDto.cs",
+              "RelativeToolTip": "DTOs\\User\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:16:15.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Helpers\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Helpers\\ApiResponse.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Helpers\\ApiResponse.cs",
+              "RelativeToolTip": "Helpers\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:45:29.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:44:52.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:40:32.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:41:35.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:41:54.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:40:21.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoyaltyPoint.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\LoyaltyPoint.cs",
+              "RelativeDocumentMoniker": "Models\\LoyaltyPoint.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\LoyaltyPoint.cs",
+              "RelativeToolTip": "Models\\LoyaltyPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:46:24.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:42:06.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "Models\\OrderHistory.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\OrderHistory.cs",
+              "RelativeToolTip": "Models\\OrderHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:46:37.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:42:25.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Models\\OrderStatus.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:42:49.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Packaging.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Packaging.cs",
+              "RelativeDocumentMoniker": "Models\\Packaging.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Packaging.cs",
+              "RelativeToolTip": "Models\\Packaging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:40:44.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:40:10.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Models\\RefreshToken.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:39:49.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:39:36.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Services\\AdminService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\AdminService.cs",
+              "RelativeToolTip": "Services\\AdminService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:37:24.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:38:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HistoryService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\HistoryService.cs",
+              "RelativeDocumentMoniker": "Services\\HistoryService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\HistoryService.cs",
+              "RelativeToolTip": "Services\\HistoryService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAApwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:39:18.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:37:36.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "Services\\SearchService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\SearchService.cs",
+              "RelativeToolTip": "Services\\SearchService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:38:12.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:37:12.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-22T15:47:54.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HistoryController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "Controllers\\HistoryController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:36:15.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:32:48.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:33:51.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "StockUpdateDto.cs",
+              "DocumentMoniker": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\StockUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\StockUpdateDto.cs",
+              "ToolTip": "D:\\Finalized\\Retail-Website\\RetailOrdering.API\\DTOs\\Product\\StockUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\StockUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:00:08.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
